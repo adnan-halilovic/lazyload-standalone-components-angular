@@ -1,4 +1,6 @@
-# StandaloneComponents
+# Lazyload Standalone Components in Angular - Youtube Video
+
+[Watch the video here](https://youtu.be/wJekj9RMQxU)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
